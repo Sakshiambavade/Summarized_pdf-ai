@@ -17,7 +17,7 @@ This is an AI-powered PDF summarization tool built using **Streamlit** and **Gro
   - `deepseek-r1-distill-qwen-32b`
 - ⚡ Simple **Streamlit UI** for easy use.
 
-- ![Website Preview]()
+- ![Website Preview](screencapture-summarizedpdf-ai-7jcafhn4tsrjtkltln26fb-streamlit-app-2025-03-29-15_31_03.png)
 
 ## Live Demo
 👉 [Try it here](https://summarizedpdf-ai-7jcafhn4tsrjtkltln26fb.streamlit.app/)
