@@ -1,0 +1,5 @@
+streamlit
+llama_index
+python-dotenv
+llama-index-llms-groq
+pdfplumber
